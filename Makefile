@@ -1,8 +1,8 @@
 CC=gcc
-CFLAGS=-Wall -Wextra -std=c11 -pedantic
+CFLAGS=-Wall -Wextra -std=c11 -pedantic -ggdb
 DEFINES=
 INCLUDES=`pkg-config --cflags gtk+-3.0`
-LIBS=`pkg-config --libs gtk+-3.0`
+LIBS=`pkg-config --libs gtk+-3.0` -lX11 -lXrandr
 
 SRCDIR=src
 BUILDDIR=build
