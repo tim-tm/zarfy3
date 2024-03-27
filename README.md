@@ -1,6 +1,6 @@
 # zarfy3
 
-This repository is a Gtk3 recode of the patched [zarfy](https://github.com/rbtylee/zarfy) maintained by [Robert Wiley](https://github.com/rbtylee/).
+This repository is a Gtk3 recode of the patched [zarfy](https://github.com/rbtylee/zarfy).
 
 ## Features 
 
