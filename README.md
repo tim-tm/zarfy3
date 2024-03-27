@@ -8,8 +8,7 @@ zarfy3 is a libxrandr front end. It will soon be able to handle screen resolutio
 
 ## Dependencies
 
-- Common build tools (Make, pkg-config, gcc)
-  - Maybe autotools in the future
+- autotools
 - gtk3
 - libxrandr
 - libxrender
@@ -23,4 +22,4 @@ sudo make install
 ## Contribution
 
 Contribute via. GitHub pull requests.
-Contributions must be licensed under this project's [copyright](https://github.com/tim-tm/zarfy3/blob/main/LICENSE).
+Contributions must be licensed under this project's [license](https://github.com/tim-tm/zarfy3/blob/main/LICENSE).
